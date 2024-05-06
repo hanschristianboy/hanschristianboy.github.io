@@ -5,8 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-*Boom vs Bust in House Price Belief Formation* \
-Summary: House price beliefs show momentum in booms but not in downturns. I argue that this is because market observers process price signals differently in booms than in downturns given homeowner incentives to climb the property ladder. Ample evidence at the levels of dwellings and of neighborhoods supports this view.
+*Why House Price Beliefs Are Extrapolated Only in Booms* \
+Summary: House price beliefs exhibit momentum during booms but not in downturns, converging to market prices from different ex-ante levels of optimism. This study suggests that sales data contain information about price trajectories in booms, as equity-constrained homeowners seek reservation gains, whereas in downturns, sales signal only current price levels not trajectories.
 
-*The Property Ladder and the Labor-Leisure Trade-off* \
-Summary: A small increase of a household's labor supply can enable a discontinuous jump in their consumption of housing services as downpayment-constrained homeowners climb up the property ladder. Through a natural experiment in Depression-era Philadelphia, I show that marginal climbers increase their labor supply around the time of their intended home purchase.
+*Local Spillovers From Distressed Housing Portfolios* \
+Summary: This study provides causal evidence of housing market externalities caused by investor financial distress in 1930s Philadelphia. The need to refinance short-term mortgage debt amid a banking crisis is used for identification. Investors' financial distress caused negative local spillovers even around properties they did not sell.
